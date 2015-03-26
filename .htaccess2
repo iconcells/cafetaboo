@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^(www.cafetaboo.net)?$
+RewriteRule ^(.*)$ http://www.cafetaboo.net/$1 [R=301,L]
