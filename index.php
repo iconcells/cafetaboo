@@ -90,7 +90,7 @@ ga('send', 'pageview');
 					<div class="menu-main-menu-container">
                      
                     <ul id="menu-main-menu" class="menu">
-                    <li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-147"><a href="http://cafetaboo.net/">HOME</a></li>
+                    <li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-147"><a href="/">HOME</a></li>
 <li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=48">ABOUT US</a></li>
 <li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=55">MENU</a></li>
 <li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=683">CATERING</a></li>
