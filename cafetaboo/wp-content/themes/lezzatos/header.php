@@ -19,7 +19,7 @@
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
 <html <?php language_attributes(); ?>><head>
 <?php if($de_description){ ?>
-<meta name="description" content="<?php echo $de_description ?>">
+
 <?php } ?>
 <?php if($de_keywords){ ?>
 <meta name="keywords" content="<?php echo $de_keywords ?>">

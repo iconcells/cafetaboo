@@ -55,6 +55,11 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'wordpress');
 define('DB_PASSWORD', '0lRWtvUuFa');
 
+//define('DB_NAME', 'cafetaboo');
+//define('DB_USER', 'cafetaboo');
+//define('DB_PASSWORD', '2Sp@5PzX!4');
+
+
 /**#@-*/
 
 /**
