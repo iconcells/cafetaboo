@@ -127,6 +127,7 @@ ga('send', 'pageview');
 <div id="main" class="site-main container_12">
 	
 	<!-- Left column -->
+
 	<div id="primary" class="grid_4" style="width:30%;">
 				<!-- Latest Events -->
 			<header class="entry-header">
@@ -150,23 +151,21 @@ ga('send', 'pageview');
 							</div>
 							
 						</div>
-				
-							
-										
+			
+			</div>
+		
+			<div class="clear"></div>
 						
-							
-						</div>
-				
-							
-					
-					<div class="clear"></div>
+	</div>
 
-									
-				</div>
-                <div id="primary" class="grid_4">
+
+<!-- mid column starts --> 
+
+    <div id="primary" class="grid_4">
                 <aside id="event-small-96" class="WPlookeventssmall widgets">
 					<header class="entry-header">
-					<h1 class="entry-title">World Cup!!  2<sup style="margin-top:8px;">nd</sup> beer for $2</h1>
+
+					<h1 class="entry-title">Happy Hour <!--2<sup style="margin-top:8px;">nd</sup> --> beer for $2</h1>
 										<div class="clear"></div>
 				</header>
 															<div class="toggle-event">
@@ -176,10 +175,10 @@ ga('send', 'pageview');
 							</div>
 							<div class="expand">
 								<div class="list-event-widget">
-																			<!--<div class="entry-date">
+																			<!-- <div class="entry-date">
 											<div class="date">12</div>
 											<div class="month">Jan</div>
-										</div>-->
+										</div> -->
 										
 									<div class="entry-description">
 										<h1 class="entry-head"><a href="http://themes.wplook.com/stereoclub/events/madame-club/">Fiery Chicken Monday</a></h1>
@@ -279,11 +278,10 @@ ga('send', 'pageview');
                 </div>
                 
 	</div> <!-- / #primary -->
+
+<!-- Mid column ends -->
 	
 <div id="secondary" class="grid_4 widget-area" role="complementary">
-
-
-
 			
 				
 							<!-- Widget Events -->
