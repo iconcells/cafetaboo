@@ -112,7 +112,7 @@ ga('send', 'pageview');
 			<!-- Header -->
 			<div class="container_12 teaser">
 
-		<div id="slidecaption" class="grid_12"> <h1> WE DELIVER </h1> <h2> free delivery for orders over $30</h2></div>
+		<div id="slidecaption" class="grid_12"> <h1> WE DELIVER</h1> <h2> free delivery for orders over $30</h2></div>
 
 		<div class="grid_12 margin-battom slider-arrow">
 			<a id="prevslide" class="load-item" style="display: block;"></a>
@@ -165,7 +165,7 @@ ga('send', 'pageview');
                 <aside id="event-small-96" class="WPlookeventssmall widgets">
 					<header class="entry-header">
 
-					<h1 class="entry-title">Happy Hour <!--2<sup style="margin-top:8px;">nd</sup> --> beer for $2</h1>
+					<h1 class="entry-title">Celebrate 5 yr anniversary</h1>
 										<div class="clear"></div>
 				</header>
 															<div class="toggle-event">
@@ -323,7 +323,7 @@ ga('send', 'pageview');
 								<h1>News:</h1>
 						  </div>
 								<div id="slider-status" class="flexslider">
-									<ul class="slides">
+									<ul class="slides status-title">
 									
 									 <li style="margin:-15px 0px 0px -20px;"><a href="#" style="font-size:20px;">start placing your order online on June 9</a></li>
 							         <li style="margin:-15px 0px 0px -20px;"><a href="#" style="font-size:20px;">Café Taboo app is coming soon</a></li>
@@ -472,8 +472,8 @@ var ajax_var = {"url":"http:\/\/themes.wplook.com\/stereoclub\/wp-admin\/admin-a
 							[	// Slideshow Images
 
 																	{image :' wp-content/uploads/sites/2/2013/09/background-11.jpg ', title :' <h1>WE DELIVER</h1> <h2> <span>free delivery for orders over $30</span> </h2>'},																	{image :'wp-content/uploads/sites/2/2013/09/background-21.jpg ', title :' <h1>TRY OUR NEW CALI-MEXI FAVORITES</h1> <h2><span>Latin Dog: ¼ pound organic, gluten-free beef frank topped with homemade Chilean salsa, avocado, and aioli on whole wheat hotdog bun</span></h2>'},
-																	{image :'wp-content/uploads/sites/2/2013/09/background-22.jpg ', title :' <h1> PLACE YOUR ORDER ONLINE </h1> <h2><span>online ordering system will go live on June 9, you can place your order online or through facebook</span></h2>'},
-																	{image :'wp-content/uploads/sites/2/2013/09/background-23.jpg ', title :' <h1>ANDROID & IPHONE APP</h1> <h2> <span>Café Taboo app is coming soon</span></h2>'},															]
+																	{image :'wp-content/uploads/sites/2/2013/09/background-22.jpg ', title :' <h1>ORDER ANY WAY YOU WANT</h1> <h2><span>Online, Facebook, app, phone or fax</span></h2>'},
+																	{image :'wp-content/uploads/sites/2/2013/09/background-23.jpg ', title :' <h1>CAFÉ TABOO APP</h1> <h2> <span>Café Taboo apps in Android & IPhone </span></h2>'},															]
 					});
 				});
 			</script>
