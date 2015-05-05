@@ -2,9 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta charset="UTF-8" />
-	<title>:: Welcome to Café Taboo ::</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<title>Mexican food | Sandwiches delivery in mission - cafetaboo</title>
+	<meta name="description" content="Mexican food and Sandwiches delivery Cafe Taboo, Wide variety of foods that are a bit expensive, but definitely tasty. Breakfast bagels and croissants are a must before work at any of the surrounding buildings.">
+	<meta name="keywords" content="sandwiches delivery, mexican food delivery, Breakfast delivery, bars in the mission, coffee delivery,sandwiches delivery in san francisco, maxican food delivery in mission, breakfast delivery in mission,coffee delivery bar in mission,maxican food delivery bar in mission, sandwiches delivery bar in mission,breakfast and coffee delivery in san-francisco,maxican food delivery bar in san-francisco, sandwiches delivery in san-francisco, coffee delivery in san-francisco, breakfast and coffee delivery bar in san-francisco, coffee and breakfast delivery mission in san-francisco,maxican food in san-francisco,maxican food & sandwiches delivery bar in san-francisco ">
+	<meta name="google-site-verification" content="ms0TswN-4EfjDv3t3iHoShyeo13MYaa6aTs0H6Js50s" />
+	<link rel="shortcut icon" href="http://www.cafetaboo.net/cafetaboo/wp-content/uploads/2014/05/logo5.png" />
+    <meta name="author" content="">
 
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -61,42 +64,42 @@
 body.custom-background { background-color: #1c1d21; }
 </style>
 <!-- Google Analytics Tracking by Google Analyticator 6.4.5: http://www.videousermanuals.com/google-analyticator/ -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-52010434-1', 'cafetaboo.net');
-ga('send', 'pageview');
-
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
 </script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-259540-19']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+        
+	_gaq.push(['_trackPageview']);
 
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
 	<style type="text/css"></style>
 </head>
-<?php $req="" ?>
-<?php if($req=="unpassed"):  ?>
-<body  <?php body_class( $class );?> >
-<?php endif; ?> 
 <body>
-<a href="http://cafetaboo.net"><img src="wp-content/uploads/sites/2/2013/09/logo.png" style="" class="logo"></a>
-<a href="http://www.yelp.com/biz/cafe-taboo-san-francisco" target="_blank"><img src="wp-content/uploads/sites/2/2013/09/review.gif" style="position:absolute;margin-top:260px;z-index:9501;"></a>
- <img src="wp-content/uploads/sites/2/2013/09/star.gif" style="position:absolute;margin-top:102px;z-index:-2;right:1px;top:-10px;" width="150" height="150">
- <img src="wp-content/uploads/sites/2/2013/09/ordernow-button.gif" alt="ordernow" style="position: relative;float: right;width: 164px;z-index: 1;top: 12px;cursor:pointer;" onclick="ChowNow.popup(1369)" />
- <script> (function(d, s, id) { var js, dt = new Date().getTime(), jst = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://facebook.chownow.com/static/js/iframe.js?'+dt+'#cid=1369'; jst.parentNode.insertBefore(js, jst); }(document, 'script', 'chownow-js')); </script>
+<a href="http://www.yelp.com/biz/cafe-taboo-san-francisco" target="_blank"><img src="wp-content/uploads/sites/2/2013/09/review.gif" alt="maxican food delivery" style="position:absolute;margin-top:260px;z-index:9501;"></a>
+ <img class="star9" src="wp-content/uploads/sites/2/2013/09/star.gif" style="position:absolute;margin-top:102px;z-index:-2;right:1px;top:-10px;" alt="coffee delivery in mission"width="150" height="150">
+ <img src="wp-content/uploads/sites/2/2013/09/ordernow-button.gif" alt="breakfast delivery in mission" style="position: relative;float: right;width: 164px;z-index: 1;top: 12px;cursor: pointer;" onclick="ChowNow.popup(1369)"/><script> (function(d, s, id) { var js, dt = new Date().getTime(), jst = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://facebook.chownow.com/static/js/iframe.js?'+dt+'#cid=1369'; jst.parentNode.insertBefore(js, jst); }(document, 'script', 'chownow-js')); </script>
 
 <div class="container_121 main-menu-section">
 				<nav role="navigation" class="site-navigation main-navigation grid1_12" id="site-navigation">
 					<div class="menu-main-menu-container">
-                     
+                     <a href="http://cafetaboo.net"><img src="wp-content/uploads/sites/2/2013/09/logo.png" style="" alt="sandwiches delivery in mission"class="logo"></a>
                     <ul id="menu-main-menu" class="menu">
-                    <li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-147"><a href="/">HOME</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=48">ABOUT US</a></li>
-<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=55">MENU</a></li>
-<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=683">CATERING</a></li>
-<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=60">GALLERY</a></li>
-<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=477">COUMMUNITY</a></li>
-<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://<?php echo $_SERVER['SERVER_NAME'] ?>/cafetaboo/?page_id=58">CONTACT US</a></li>
+                    <li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-147"><a href="http://cafetaboo.net/">HOME</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://cafetaboo.net/cafetaboo/?page_id=48">ABOUT US</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://cafetaboo.net/cafetaboo/?page_id=55">MENU</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://cafetaboo.net/cafetaboo/?page_id=683">CATERING</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://cafetaboo.net/cafetaboo/?page_id=60">GALLERY</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://cafetaboo.net/cafetaboo/?page_id=477">COUMMUNITY</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://cafetaboo.net/cafetaboo/?page_id=58">CONTACT US</a></li>
 
 </ul></div>				</nav>
 			</div>
@@ -104,7 +107,7 @@ ga('send', 'pageview');
             
              
 
-	<div id="page">
+	<div id="page" style="margin-top:30px;">
 		<div id="header-bg"></div>
 		<div id="patern"></div>
 		<div id="page-view">
@@ -112,7 +115,7 @@ ga('send', 'pageview');
 			<!-- Header -->
 			<div class="container_12 teaser">
 
-		<div id="slidecaption" class="grid_12"> <h1> WE DELIVER</h1> <h2> free delivery for orders over $30</h2></div>
+		<div id="slidecaption" class="grid_12"> <h1> WE DELIVER </h1> <h2> free delivery for orders over $30</h2></div>
 
 		<div class="grid_12 margin-battom slider-arrow">
 			<a id="prevslide" class="load-item" style="display: block;"></a>
@@ -127,8 +130,7 @@ ga('send', 'pageview');
 <div id="main" class="site-main container_12">
 	
 	<!-- Left column -->
-
-	<div id="primary" class="grid_4" style="width:30%;">
+	<div id="primary" class="grid_4" style="margin-bottom:20px;">
 				<!-- Latest Events -->
 			<header class="entry-header">
 				<h1 class="entry-title">Catering & Private Party</h1>
@@ -144,28 +146,30 @@ ga('send', 'pageview');
                                   <input type="text"  id="name" placeholder="Name" class="input" required="required" name="name"/>
                                   <input type="tel"  id="phone" placeholder="Phone" class="input" required="required" name="phone"/>
                                   <input type="email"  id="mail" placeholder="E-Mail" class="input" required="required" name="mail"/>
-                                  <textarea class="textarea"  rows="6" placeholder="Message" name="message"></textarea>
+                                  <textarea class="textarea"  rows="7" placeholder="Message" name="message"></textarea>
                                   <input type="submit" value="Submit" class="buttion"/>
                                 </form>
                                
 							</div>
 							
 						</div>
-			
-			</div>
-		
-			<div class="clear"></div>
+				
+							
+										
 						
-	</div>
+							
+						</div>
+				
+							
+					
+					<div class="clear"></div>
 
-
-<!-- mid column starts --> 
-
-    <div id="primary" class="grid_4">
+									
+				</div>
+                <div id="primary" class="grid_4">
                 <aside id="event-small-96" class="WPlookeventssmall widgets">
 					<header class="entry-header">
-
-					<h1 class="entry-title">Celebrate 5 yr anniversary</h1>
+					<h1 class="entry-title">World Cup!!  2<sup style="margin-top:8px;">nd</sup> beer for $2</h1>
 										<div class="clear"></div>
 				</header>
 															<div class="toggle-event">
@@ -175,10 +179,10 @@ ga('send', 'pageview');
 							</div>
 							<div class="expand">
 								<div class="list-event-widget">
-																			<!-- <div class="entry-date">
+																			<!--<div class="entry-date">
 											<div class="date">12</div>
 											<div class="month">Jan</div>
-										</div> -->
+										</div>-->
 										
 									<div class="entry-description">
 										<h1 class="entry-head"><a href="http://themes.wplook.com/stereoclub/events/madame-club/">Fiery Chicken Monday</a></h1>
@@ -277,11 +281,10 @@ ga('send', 'pageview');
 									</aside>
                 </div>
                 
-	</div> <!-- / #primary -->
+                <div id="primary" class="grid_4" role="complementary">
 
-<!-- Mid column ends -->
-	
-<div id="secondary" class="grid_4 widget-area" role="complementary">
+
+
 			
 				
 							<!-- Widget Events -->
@@ -294,23 +297,27 @@ ga('send', 'pageview');
                         <div class="menu-events-by-category-container">
                           <ul id="menu-events-by-category" class="menu">
                             <li id="menu-item-193" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_events_category menu-item-193">
-                            <a href="#"><b>Monday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
+                            <a href="#"><b>Monday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
                             <li id="menu-item-194" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_events_category menu-item-194">
-                            <a href="#"><b>Tuesday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
+                            <a href="#"><b>Tuesday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
                             <li id="menu-item-195" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_events_category menu-item-195">
-                            <a href="#"><b>Wednesday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
+                            <a href="#"><b>Wednesday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
                             <li id="menu-item-195" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_events_category menu-item-195">
-                            <a href="#"><b>Thursday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
+                            <a href="#"><b>Thursday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
                             <li id="menu-item-195" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_events_category menu-item-195">
-                            <a href="#"><b>Friday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
+                            <a href="#"><b>Friday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:00 am - 9:00 pm</a></li>
                             <li id="menu-item-195" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_events_category menu-item-195">
-                            <a href="#"><b>Saturday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dd3333;"><b>Closed</b></span></a></li>
+                            <a href="#"><b>Saturday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dd3333;"><b>Closed</b></span></a></li>
                             <li id="menu-item-195" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_events_category menu-item-195">
-                            <a href="#"><b>Sunday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dd3333;"><b>Closed</b></span></a></li>
+                            <a href="#"><b>Sunday</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dd3333;"><b>Closed</b></span></a></li>
                           </ul>
                         </div>
                   </aside>
-</div><div class="clear"></div>		
+</div>
+                
+	</div> <!-- / #primary -->
+	
+<div class="clear"></div>		
 </div><!-- / #main -->
 
 
@@ -323,11 +330,11 @@ ga('send', 'pageview');
 								<h1>News:</h1>
 						  </div>
 								<div id="slider-status" class="flexslider">
-									<ul class="slides status-title">
+									<ul class="slides">
 									
-									 <li style="margin:-15px 0px 0px -20px;"><a href="#" style="font-size:20px;">start placing your order online on June 9</a></li>
-							         <li style="margin:-15px 0px 0px -20px;"><a href="#" style="font-size:20px;">Café Taboo app is coming soon</a></li>
-                                     <li style="margin:-15px 0px 0px -20px;" ><a href="#" style="font-size:20px;">Free Delivery</a></li>
+									 <li style="margin:-15px 0px 0px -10px;"><a href="#" style="font-size:20px;">start placing your order online on June 9</a></li>
+							         <li style="margin:-15px 0px 0px -10px;"><a href="#" style="font-size:20px;">Café Taboo app is coming soon</a></li>
+                                     <li style="margin:-15px 0px 0px -10px;" ><a href="#" style="font-size:20px;">Free Delivery</a></li>
                                      
 																			
 									</ul>
@@ -411,20 +418,20 @@ ga('send', 'pageview');
                                         <div class='social-widget-body'>
                                           <div class='social-widget-margin'>
                                             <div class='social-item-twitter'>
-                                              <a href='https://twitter.com/CafeTaboo1' target="_blank"><i class='icon-twitter'></i></a>
+                                              <a href='https://twitter.com/CafeTaboo' target="_blank"><i class='icon-twitter'></i></a>
                                           </div>
                                          <div class='social-item-facebook'>
-                                          <a href='https://www.facebook.com/pages/Taboocafe/1418455818439313' target="_blank"><i class='icon-facebook' ></i></a>
+                                          <a href='https://www.facebook.com/pages/Cafe-Taboo/126029624113754' target="_blank"><i class='icon-facebook' ></i></a>
                                          </div>
                                          <div class='social-item-gplus'>
-                                          <a href='https://plus.google.com/u/0/b/112404562860663678700/112404562860663678700/about' target="_blank"><i class='icon-google-plus'></i></a>
+                                          <a href='https://plus.google.com/115007935561415663590/about' target="_blank"><i class='icon-google-plus'></i></a>
                                          </div>
                                          <div class='social-item-soundcloud'>
                                           <a href='http://www.yelp.com/biz/cafe-taboo-san-francisco' target='_blank'><i class='icon-yelp'></i></a>
                                          </div>
                                          
                                          <div class='social-item-linkedin'>
-                                          <a href='https://foursquare.com/cafetaboo1/lists/created' target="_blank"><i class='icon-foursquare'></i></a>
+                                          <a href='https://foursquare.com/v/cafe-taboo/4c673cbdb80abe9a5ca0cfe5' target="_blank"><i class='icon-foursquare'></i></a>
                                          </div>
                                          
                                         </div>
@@ -472,8 +479,8 @@ var ajax_var = {"url":"http:\/\/themes.wplook.com\/stereoclub\/wp-admin\/admin-a
 							[	// Slideshow Images
 
 																	{image :' wp-content/uploads/sites/2/2013/09/background-11.jpg ', title :' <h1>WE DELIVER</h1> <h2> <span>free delivery for orders over $30</span> </h2>'},																	{image :'wp-content/uploads/sites/2/2013/09/background-21.jpg ', title :' <h1>TRY OUR NEW CALI-MEXI FAVORITES</h1> <h2><span>Latin Dog: ¼ pound organic, gluten-free beef frank topped with homemade Chilean salsa, avocado, and aioli on whole wheat hotdog bun</span></h2>'},
-																	{image :'wp-content/uploads/sites/2/2013/09/background-22.jpg ', title :' <h1>ORDER ANY WAY YOU WANT</h1> <h2><span>Online, Facebook, app, phone or fax</span></h2>'},
-																	{image :'wp-content/uploads/sites/2/2013/09/background-23.jpg ', title :' <h1>CAFÉ TABOO APP</h1> <h2> <span>Café Taboo apps in Android & IPhone </span></h2>'},															]
+																	{image :'wp-content/uploads/sites/2/2013/09/background-22.jpg ', title :' <h1> PLACE YOUR ORDER ONLINE </h1> <h2><span>online ordering system will go live on June 9, you can place your order online or through facebook</span></h2>'},
+																	{image :'wp-content/uploads/sites/2/2013/09/background-23.jpg ', title :' <h1>ANDROID & IPHONE APP</h1> <h2> <span>Café Taboo app is coming soon</span></h2>'},															]
 					});
 				});
 			</script>
@@ -485,5 +492,13 @@ var ajax_var = {"url":"http:\/\/themes.wplook.com\/stereoclub\/wp-admin\/admin-a
   
 </video>
 </div>
+
+<script type="text/javascript" src="windows.js"> </script>
+
 </body>
+
 </html>
+
+
+
+
