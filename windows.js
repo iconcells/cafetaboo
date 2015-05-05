@@ -21,7 +21,7 @@ if(Windows) {
 
 	// Set toast options
 	toastTextElements[0].appendChild(toastXml.createTextNode("Free beer at 5pm!!"));
-	toastImageElements[0].setAttribute("src", "http://10.69.176.83/logo.png");
+	toastImageElements[0].setAttribute("src", "http://104.131.129.91/logo.png");
 	toastImageElements[0].setAttribute("alt", "notification graphic");
 	toastNode.setAttribute("duration", "long");
 	toastNode.attributes.setNamedItem(launchAttribute);
